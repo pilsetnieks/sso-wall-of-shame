@@ -1,0 +1,8 @@
+---
+base_pricing: $80 per month
+name: BetterUptime
+percent_increase: 100%
+pricing_source: https://betteruptime.com/plans
+sso_pricing: $160 per month
+updated_at: 2023-02-24
+vendor_url: https://betteruptime.com/
